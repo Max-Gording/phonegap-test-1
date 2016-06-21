@@ -1,4 +1,4 @@
-# Hello World PhoneGap Application [![bitHound Score][bithound-img]][bithound-url]
+# Simple PhoneGap Test-1 Application 
 
 > This is a Hello World application built with PhoneGap based on phonegap repository https://github.com/phonegap/phonegap-start
 
