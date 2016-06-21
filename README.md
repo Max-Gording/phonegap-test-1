@@ -1,6 +1,6 @@
 # Hello World PhoneGap Application [![bitHound Score][bithound-img]][bithound-url]
 
-> This is a Hello World application built with PhoneGap based on official phonegap repository 'https://github.com/phonegap/phonegap-start'
+> This is a Hello World application built with PhoneGap based on phonegap repository https://github.com/phonegap/phonegap-start
 
 ## Usage
 
